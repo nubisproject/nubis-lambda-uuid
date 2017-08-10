@@ -1,5 +1,17 @@
 # Change Log
 
+## [v1.5.0](https://github.com/nubisproject/nubis-lambda-uuid/tree/v1.5.0) (2017-06-24)
+[Full Changelog](https://github.com/nubisproject/nubis-lambda-uuid/compare/v1.4.2...v1.5.0)
+
+**Closed issues:**
+
+- Tag v1.5.0 release [\#5](https://github.com/nubisproject/nubis-lambda-uuid/issues/5)
+
+**Merged pull requests:**
+
+- Merge v1.5.0 release into develop. \[skip ci\] [\#7](https://github.com/nubisproject/nubis-lambda-uuid/pull/7) ([tinnightcap](https://github.com/tinnightcap))
+- Update CHANGELOG for v1.5.0 release \[skip ci\] [\#6](https://github.com/nubisproject/nubis-lambda-uuid/pull/6) ([tinnightcap](https://github.com/tinnightcap))
+
 ## [v1.4.2](https://github.com/nubisproject/nubis-lambda-uuid/tree/v1.4.2) (2017-05-03)
 **Closed issues:**
 
