@@ -1,5 +1,12 @@
 # Change Log
 
+## [v1.5.1](https://github.com/nubisproject/nubis-lambda-uuid/tree/v1.5.1) (2017-08-18)
+[Full Changelog](https://github.com/nubisproject/nubis-lambda-uuid/compare/v1.5.1...v1.5.1)
+
+**Merged pull requests:**
+
+- Update CHANGELOG for v1.5.1 release \[skip ci\] [\#16](https://github.com/nubisproject/nubis-lambda-uuid/pull/16) ([tinnightcap](https://github.com/tinnightcap))
+
 ## [v1.5.1](https://github.com/nubisproject/nubis-lambda-uuid/tree/v1.5.1) (2017-08-11)
 [Full Changelog](https://github.com/nubisproject/nubis-lambda-uuid/compare/v1.5.0...v1.5.1)
 
